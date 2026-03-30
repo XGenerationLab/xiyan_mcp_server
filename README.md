@@ -71,6 +71,10 @@
 - 🖱️ List available tables as resources
 - 🔧 Read table contents
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/xgenerationlab-xiyan-mcp-server).
+
 ## Preview
 ### Architecture
 There are two ways to integrate this server in your project, as shown below:
